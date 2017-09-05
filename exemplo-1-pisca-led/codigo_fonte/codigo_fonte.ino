@@ -1,8 +1,9 @@
 /*
   Curso de Extensao: Programando para IoT com Arduino – Basico
   Professor:         Dr. Orlewilson Bentes Maia
-  Data:              26/11/2016
-  Descricao:         Elaborar um projeto em Arduino para ligar e desligar um LED (exemplo 01)
+  Data Criacao:      26/11/2016
+  Data Atualizao:    05/09/2017
+  Descricao:         Projeto em Arduino para ligar e desligar um LED (exemplo 01)
 */
  
 // Porta digital no qual sera colocado um LED para ser ligado e desligado
