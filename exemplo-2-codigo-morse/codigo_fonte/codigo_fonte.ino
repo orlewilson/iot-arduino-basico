@@ -1,8 +1,9 @@
 /*
   Curso de Extensao: Programando para IoT com Arduino – Basico
   Professor:         Dr. Orlewilson Bentes Maia
-  Data:              03/12/2016
-  Descricao:         Alterar o exemplo 01 (criar um Pisca LED) para gerar um codigo Morse (exemplo 02)
+  Data Criacao:      03/12/2016
+  Data Atualizao:    05/09/2017
+  Descricao:         Alterando o exemplo 01 (criar um Pisca LED) para gerar um codigo Morse (exemplo 02)
 */
  
 // Porta digital no qual sera colocado um LED para ser ligado e desligado
