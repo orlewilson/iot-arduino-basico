@@ -41,7 +41,7 @@ void setup() {
 void loop() {
   
   
-  // ler o valor atual do potenciometro
+  // ler o valor atual do sensor de luminosidade
   // o valor varia entre 0 (escuro) e 1023 (claro)
   valorLuminosidade = analogRead(luminosidade);
   
