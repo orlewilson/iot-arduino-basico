@@ -9,7 +9,7 @@
 // Porta digital no qual sera colocado um LED para ser ligado e desligado
 int led = 13;
 
-// Porta analgica no qual sera lido o valor do potenciometro
+// Porta analogica no qual sera lido o valor do potenciometro
 int potenciometro = A0;
 
 // Variavel para armazenar o valor lido do potenciometro
